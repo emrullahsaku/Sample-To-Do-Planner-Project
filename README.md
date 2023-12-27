@@ -8,12 +8,6 @@ This project implements an algorithm to schedule tasks efficiently among develop
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Algorithm Explanation](#algorithm-explanation)
-- [Example](#example)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
