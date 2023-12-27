@@ -1,0 +1,17 @@
+C:\Works\To-Do-Project\ToDo.DataAccess\bin\Debug\net6.0\ToDo.DataAccess.deps.json
+C:\Works\To-Do-Project\ToDo.DataAccess\bin\Debug\net6.0\ToDo.DataAccess.runtimeconfig.json
+C:\Works\To-Do-Project\ToDo.DataAccess\bin\Debug\net6.0\ToDo.DataAccess.dll
+C:\Works\To-Do-Project\ToDo.DataAccess\bin\Debug\net6.0\ToDo.DataAccess.pdb
+C:\Works\To-Do-Project\ToDo.DataAccess\bin\Debug\net6.0\ToDo.Core.dll
+C:\Works\To-Do-Project\ToDo.DataAccess\bin\Debug\net6.0\ToDo.Core.pdb
+C:\Works\To-Do-Project\ToDo.DataAccess\obj\Debug\net6.0\ToDo.DataAccess.csproj.AssemblyReference.cache
+C:\Works\To-Do-Project\ToDo.DataAccess\obj\Debug\net6.0\ToDo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\To-Do-Project\ToDo.DataAccess\obj\Debug\net6.0\ToDo.DataAccess.AssemblyInfoInputs.cache
+C:\Works\To-Do-Project\ToDo.DataAccess\obj\Debug\net6.0\ToDo.DataAccess.AssemblyInfo.cs
+C:\Works\To-Do-Project\ToDo.DataAccess\obj\Debug\net6.0\ToDo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Works\To-Do-Project\ToDo.DataAccess\obj\Debug\net6.0\ToDo.DataAccess.csproj.CopyComplete
+C:\Works\To-Do-Project\ToDo.DataAccess\obj\Debug\net6.0\ToDo.DataAccess.dll
+C:\Works\To-Do-Project\ToDo.DataAccess\obj\Debug\net6.0\refint\ToDo.DataAccess.dll
+C:\Works\To-Do-Project\ToDo.DataAccess\obj\Debug\net6.0\ToDo.DataAccess.pdb
+C:\Works\To-Do-Project\ToDo.DataAccess\obj\Debug\net6.0\ToDo.DataAccess.genruntimeconfig.cache
+C:\Works\To-Do-Project\ToDo.DataAccess\obj\Debug\net6.0\ref\ToDo.DataAccess.dll
