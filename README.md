@@ -13,6 +13,8 @@ This project implements an algorithm to schedule tasks efficiently among develop
 
 This project leverages a task scheduling algorithm to distribute tasks among developers, considering their hourly capacities and task requirements. The goal is to optimize the schedule and minimize the time required to complete all tasks.
 
+In-Memory database is used in project.
+
 ## Getting Started
 
 ### Prerequisites
