@@ -31,4 +31,4 @@ This project leverages a task scheduling algorithm to distribute tasks among dev
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/emrullahsaku/Sample-To-Do-Planner-Project.git
